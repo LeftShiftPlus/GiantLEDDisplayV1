@@ -1,0 +1,1 @@
+Early on in the design phase of this project I wanted to model something up and figure out how this would all fit together.  At the time I had Autocad Inventor installed with a free educational license.  I can no longer open this, but I am assuming it has something similar to the PDF's design in it.
