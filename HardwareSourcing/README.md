@@ -1,0 +1,1 @@
+The documents in this folder cover the initial prototype build, initial frame build, and the fully completed, condensed BOM.  The links in the spreadsheets are a few years old now, so don't be surprised if they don't work.
